@@ -15,31 +15,49 @@ Installation
 To run this project, you need to have Python and the following libraries installed:
 
 numpy
+
 pandas
+
 seaborn
+
 matplotlib
 
 Exploratory Data Analysis
 The notebook performs the following steps:
 
 Importing Libraries: Loads essential libraries for data manipulation and visualization.
+
 Loading the Dataset: Reads the sales data from a CSV file.
+
 Initial Exploration: Provides an overview of the dataset, including data types and non-null counts.
+
 Data Cleaning: Drops unnecessary columns and handles missing values.
+
 Descriptive Statistics: Provides statistical summaries and previews of the dataset.
+
 Changing Data Types: Converts specific columns to categorical data types.
+
 Visualizations: Includes various plots and charts to visualize product performance, sales trends, and customer behavior.
+
 Visualizations
 The project includes the following visualizations:
 
 Count of unique products
+
 Products vs. Quantity Ordered
+
 Products vs. Sales
+
 Top and bottom products by quantity and sales
+
 Monthly sales and quantity ordered
+
 Sales and quantity ordered by hour
+
 Top and bottom sales cities
+
 Price vs. Quantity Ordered
+
 Top and bottom customers by sales
 
 Conclusion
