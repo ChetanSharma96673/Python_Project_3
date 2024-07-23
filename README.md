@@ -2,7 +2,7 @@
 
 Sales Data Exploratory Data Analysis (EDA) Project
 
-Overview
+**Overview**
 This project performs exploratory data analysis (EDA) on a sales dataset. The objective is to understand the sales performance, identify trends, and derive insights that can help in making informed business decisions.
 
 Introduction
